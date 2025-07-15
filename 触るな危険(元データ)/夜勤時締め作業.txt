@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+ 
+ <head>
+ <title>夜勤時締め作業</title>
+ 
+
+<link rel="stylesheet" href="触るな危険(元データ)/デザイン.css">
+ </head>　
+
+<body>
+
+<h1>夜勤時締め作業</h1>
+
+
+
+
+
+<br>
+<br>
+<a href="../HTML目次.html"><h4>TOPへ戻る</h4></a>
+
+<a href="事務所作業.html"><h4>事務所作業関係情報へ戻る</h4></a>
+

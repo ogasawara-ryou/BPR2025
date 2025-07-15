@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+ 
+ <head>
+ <title>書類記入例</title>
+ 
+
+<link rel="stylesheet" href="触るな危険(元データ)/デザイン.css">
+ </head>　
+
+<body>
+
+<h1>書類記入例</h1>
+
+<h2>現場書類記入例</h2>
+<p>地境などのファイル</p>
+<p>イントラとか原紙載ってるURL</p>
+
+<h2元整理時の地境撤去図面廃止マニュアル></h2>
+
+
+
+
+<br>
+<br>
+<a href="../HTML目次.html"><h4>TOPへ戻る</h4></a>
+
+<a href="事務所作業.html"><h4>事務所作業関係情報へ戻る</h4></a>
+
+
+
+
